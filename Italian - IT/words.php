@@ -1,57 +1,57 @@
 <?php
 /*
 ------------------
-Language:   English
+Language:   English => Italian
 Type:       Text
 ------------------
 */
 
 $langwords = array(
-"TXT_H_ACCEPT"               => "Accept",
+"TXT_H_ACCEPT"               => "Accetta",
 "TXT_H_ACCEPTATION"          => "Acceptation",
-"TXT_H_ACCEPTED"             => "Accepted",
-"TXT_H_ACCESSORIES"          => "Accessories",
+"TXT_H_ACCEPTED"             => "Accettato",
+"TXT_H_ACCESSORIES"          => "Accessori",
 "TXT_H_ACCOUNT"              => "Account",
 "TXT_H_ACCOUNTANT"           => "Accountant",
 "TXT_H_ACCOUNTANTS"          => "Accountants",
 "TXT_H_ACHIEVED"             => "Achieved",
-"TXT_H_ACTION"               => "Action",
-"TXT_H_ACTIONS"              => "Actions",
-"TXT_H_ACTIVE"               => "Active",
-"TXT_H_AGE"                  => "Age",
-"TXT_H_AMOUNT"               => "Amount", //As in: number (not a price)
+"TXT_H_ACTION"               => "Azione",
+"TXT_H_ACTIONS"              => "Azioni",
+"TXT_H_ACTIVE"               => "Attivo",
+"TXT_H_AGE"                  => "Età",
+"TXT_H_AMOUNT"               => "Quantità", //As in: number (not a price)
 "TXT_H_ANNOUNCEMENTS"        => "Announcements",
 "TXT_H_APPLICATIONS"         => "Applications", //Job Applications
 "TXT_H_APPLY"                => "Apply", //As in: apply a filter
-"TXT_H_APPROVE"              => "Approve",
-"TXT_H_APPROVED"             => "Approved",
+"TXT_H_APPROVE"              => "Approvare",
+"TXT_H_APPROVED"             => "Approvato",
 "TXT_H_ARCHIVE"              => "Archive",
 "TXT_H_ARCHIVED"             => "Archived",
 "TXT_H_ARRIVED"              => "Arrived",
 "TXT_H_ASSEMBLE"             => "Assemble",
-"TXT_H_AVAILABLE"            => "Available",
-"TXT_H_AVERAGE"              => "Average",
-"TXT_H_AWAKE"                => "Awake",
+"TXT_H_AVAILABLE"            => "Disponibile",
+"TXT_H_AVERAGE"              => "Media",
+"TXT_H_AWAKE"                => "Sveglio",
 
-"TXT_H_BACK"                 => "Back",
-"TXT_H_BUILDINGS"            => "Buildings",
-"TXT_H_BUY"                  => "Buy",
+"TXT_H_BACK"                 => "Indietro",
+"TXT_H_BUILDINGS"            => "Edifici",
+"TXT_H_BUY"                  => "Compra",
 
-"TXT_H_CANCEL"               => "Cancel",
-"TXT_H_CAPACITY"             => "Capacity",
-"TXT_H_CHANGE"               => "Change", //As in: changing something
+"TXT_H_CANCEL"               => "Cancella",
+"TXT_H_CAPACITY"             => "Capacità",
+"TXT_H_CHANGE"               => "Cambia", //As in: changing something
 "TXT_H_CHAT"                 => "Chat",
-"TXT_H_CHEMICAL"             => "Chemical",
-"TXT_H_CITY"                 => "City",
-"TXT_H_CLOSED"               => "Closed",
-"TXT_H_COMPANIES"            => "Companies",
-"TXT_H_COMPANY"              => "Company",
-"TXT_H_COMPLETE"             => "Complete", //As in % complete
-"TXT_H_COMPLETED"            => "Completed",
+"TXT_H_CHEMICAL"             => "Chimica",
+"TXT_H_CITY"                 => "Città",
+"TXT_H_CLOSED"               => "Chiuso",
+"TXT_H_COMPANIES"            => "Compagnie",
+"TXT_H_COMPANY"              => "Compagnia",
+"TXT_H_COMPLETE"             => "Completamento", //As in % complete
+"TXT_H_COMPLETED"            => "Completato",
 "TXT_H_COMPLETION"           => "Completion",
 "TXT_H_CONCERN"              => "Corporation",
 "TXT_H_CONCERNS"             => "Corporations",
-"TXT_H_CONDITION"            => "Condition",
+"TXT_H_CONDITION"            => "Condizione",
 "TXT_H_CONTACT"              => "Contact",
 "TXT_H_CONTAINER"            => "Container",
 "TXT_H_CONTRACT"             => "Contract",
