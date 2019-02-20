@@ -5,16 +5,16 @@ $langspecials = array(
 "TXT_FAQ_A_1"        => "Ein jüngere LKW hat geringere Wartungskosten.",
 
 "TXT_FAQ_Q_2"        => "Warum sind manche Funktionen nur für Premium-Nutzer?",
-"TXT_FAQ_A_2"        => "The refuel all function and 14 days finance overview need a lot of performance from our server. That's the reason we have chosen to limit it to premium users only.\n\n We have also made our Create Corporation option a premium one because we don't want just as much corporations as there are companies in this game.",
+"TXT_FAQ_A_2"        => "Die alle nachtanken Funktion und 14 Tage Finanz Überblick brauchen eine Menge Rechenleistung auf unserem Server. Deshalb haben wir uns dazu entschieden, dies nur für Premium-Nutzer freizuschalten.\n\n Wir haben auch die Konzernerstellung nur für Premium-Nutzer freigeschaltet, weil wir nicht genau so viele Konzerne wie Unternehmen im Spiel haben möchten.",
 
-"TXT_FAQ_Q_3"        => "Which freight distance gives me the most money?",
-"TXT_FAQ_A_3"        => "In fact, it's always the best to take a shorter trip, because you will get more money in less time, but if you do so, you'll have to keep an eye on your freights the whole time. So only if you stay away for a longer period of time, it's better to accept a longer trip.\n\n But there's more; if you have an older truck or trailer (as in age of the truck/trailer), you will even get less money for a longer trip, because the maintenance cost will be really high.\n\n So if you want to stay away for longer periods of time and because of that, accept longer trips, you should buy a newer truck/trailer. Just to be clear; not one that's more expensive, but one that's less old.",
+"TXT_FAQ_Q_3"        => "Mit welchen Ladungs-Distanzen verdiene ich das meiste Geld?",
+"TXT_FAQ_A_3"        => "Es ist tatsächlich besser kürzere Strecken zu nehmen, da man mehr Geld in kurzer Zeit verdient. Wenn man das tut muss man allerdings die ganze Zeit ein Auge auf seine Ladung haben. Man sollte also nur eine längere Tour annehmen, wenn man längere Zeit weg ist.\n\n Das ist aber nicht alles; wenn du einen älteren LKW oder Anhänger hast, wirst du noch weniger Geld für eine längere Tour bekommen, weil die Wartungskosten sehr hoch sein werden.\n\n Solltest du also wegen einer längeren Abwesenheit eine längere Tour annehmen, solltest du einen neueren LKW/Anhänger kaufen. Klartext; es muss nichts teureres sein, nur weniger alt.",
 
-"TXT_FAQ_Q_5"        => "For whatever reason I'm stuck at a city. What should I do?",
-"TXT_FAQ_A_5"        => "You can always transfer your trucks, trailers and employees to another city if needed. Just go to your garage to select a truck or trailer or go to your employee overview and press the transfer button.",
+"TXT_FAQ_Q_5"        => "Ich sitze in einer Stadt fest. Was soll ich tun?",
+"TXT_FAQ_A_5"        => "Du kannst jederzeit LKW, Anhänger und Mitarbeiter in eine andere Stadt transferieren. Gehe in deine Garage und wähle einen LKW oder Anhänger aus oder gehe in deine Mitarbeiter Übersicht und drück den Transferieren Knopf.",
 
-"TXT_FAQ_Q_6"        => "When does my company get an invoice?",
-"TXT_FAQ_A_6"        => "Your company will get an invoice if the needed daily payments can't be automatically debited from your payment account. So this will happen if you don't have enough money or your money is on your savings account.",
+"TXT_FAQ_Q_6"        => "Wann erhält mein Unternehmen eine Rechnung?",
+"TXT_FAQ_A_6"        => "Dein Unternehmen erhält eine Rechnung, wenn die geforderten, täglichen Zahlungen nicht von deinem Konto abgebucht werden können. Das wird passieren wenn du nicht genug Geld hast oder sich dein Geld auf dem Sparbuck befindet.",
 
 "TXT_FAQ_Q_7"        => "Darf ich mehrere Benutzerkonten im gleichen Haushalt haben?",
 "TXT_FAQ_A_7"        => "Ja, das ist in diesem Spiel erlaubt. Solange du es nicht missbrauchst.",
@@ -28,11 +28,11 @@ $langspecials = array(
 "TXT_FAQ_Q_10"       => "Was ist ein Konzern?", 
 "TXT_FAQ_A_10"       => "Unternehmen können einem Konzern beitreten. Wie viele Unternehmen beitreten können hängt von der Menge und dem Level der Büros ab, die der Konzern gekauft hat. \n \n Ein Konzern kann Tankstellen kaufen und diese befüllen, wenn der Treibstoff am günstigsten ist (Treibstoff-Preise ändern sich jede Stunde). Als Konzern-Inhaber kannst du dann einen Preis festlegen, sodass die Unternehmen des Konzerns tanken können, wenn der Treibstoff teuer ist.\n\n Zu guter Letzt; jede Stunde erhält der Konzern eine Konzern-Ladung. Diese Ladungen bringen dem ausführenden Unternehmen mehr Geld als eine normale Tour.",
 
-"TXT_FAQ_Q_11"       => "When do you need a Fuel Tank?",
-"TXT_FAQ_A_11"       => "A Fuel Tank is currently only for storing fuel that you've stolen from another companies.",
+"TXT_FAQ_Q_11"       => "Wann braucht man einen Treibstoff Tank?",
+"TXT_FAQ_A_11"       => "Ein Treibstoff Tank wird aktuell nur dafür genutzt um Treibstoff zu Lagern den du von anderen Unternehmen gestohlen hast.",
 
-"TXT_FAQ_Q_12"       => "Can I use the Speed Up buttons on the iOS app as well?",
-"TXT_FAQ_A_12"       => "No, unfortunately due to Apple's policies, it is not possible to use the Speed Up buttons in the iOS app.",
+"TXT_FAQ_Q_12"       => "Kann ich die Speed Up Schltflächen auch in der iOS-App verwenden?",
+"TXT_FAQ_A_12"       => "Nein, aufgrund von Apples Richtlinien ist es leider nicht möglich nie Speed Up Schaltflächen in der iOS-App zu nutzen.",
 
 "TXT_FAQ_Q_13"       => "If I buy a premium account or fast action times, can I use it in the iOS and Android app?",
 "TXT_FAQ_A_13"       => "Yes, you will be able to use those in the iOS and Android app as well. \n\n In the iOS app the functions and buttons related to the premium functions are hidden, but they will appear when you've bought the functions on the website.",
@@ -40,11 +40,11 @@ $langspecials = array(
 "TXT_FAQ_Q_14"       => "What happens if I buy premium on the Android app?",
 "TXT_FAQ_A_14"       => "If you buy premium functions on the Android app, you will be able to use them on the website and iOS app as well. There is no difference between buying premium functions on the website or the Android app.",
 
-"TXT_FAQ_Q_15"       => "How does my level progress?",
-"TXT_FAQ_A_15"       => "Your level will progress everytime you finish a freight.",
+"TXT_FAQ_Q_15"       => "Wie schreite ich in meinem Level fort?",
+"TXT_FAQ_A_15"       => "Du wirst in deinem Level jedes mal fortschreiten, wenn du eine Ladung abschließt.",
 
-"TXT_FAQ_Q_16"       => "My employee called in sick. What should I do?",
-"TXT_FAQ_A_16"       => "You'll have to choose another employee for your freights, until he gets better. This will take at least 12 hours.",
+"TXT_FAQ_Q_16"       => "Mein Mitarbeiter hat sich Krank gemeldet. Was soll ich zun?",
+"TXT_FAQ_A_16"       => "Du wirst dir einen anderen Mitarbeiter für die Ladungen suchen müssen bis es ihm besser geht. Das wird mindestens 12 Stunden dauern.",
 
 "TXT_FAQ_Q_17"       => "Why is the maintenance of my truck/trailer so high?",
 "TXT_FAQ_A_17"       => "If your truck or trailer requires a lot of maintenance, it is probably too old. The older he gets (number of days), the more maintenance he needs.",
