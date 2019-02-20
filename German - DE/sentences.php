@@ -2,157 +2,157 @@
 
 //Sentence
 $langsentences = array(
-"TXT_FOOTER_AGREE"           => "By playing LogiTycoon, you agree to our", // "Terms Of Use" link after this sentence
+"TXT_FOOTER_AGREE"           => "Mit dem Spielen von LogiTycoon, akzeptierst du unsere", // "Terms Of Use" link after this sentence
 
-"TXT_COMP_BANKRUPT"          => "Your company is bankrupt. You can start a new company or buy extra money with premium credits.",
+"TXT_COMP_BANKRUPT"          => "Dein Unternehmen ist bankrott. Du kannst ein neues Unternehmen eröffnen oder zusätzliches Geld mit Premium-Credits kaufen.",
 
-"TXT_ADBLOCK_1"              => "This game is made possible by displaying online advertisements to our visitors.",
-"TXT_ADBLOCK_2"              => "Please consider supporting us by disabling your ad blocker on our game.",
-"TXT_ADBLOCK_3"              => "Alternatively you can also buy a premium account to disable ads.",
+"TXT_ADBLOCK_1"              => "Dieses Speil wird durch das Anzeigen von Onlinewerbung ermöglicht.",
+"TXT_ADBLOCK_2"              => "Bitte denk darüber nach uns durch das deaktivieren deines Adblockers zu unterstützen.",
+"TXT_ADBLOCK_3"              => "Alternativ kannst du dir auch einen Premium-Account kaufen um Werbung zu deaktivieren.",
 
-"TXT_WELCOME_1"              => "Welcome to LogiTycoon!",
-"TXT_WELCOME_2"              => "You can start your own transport company right away!",
-"TXT_WELCOME_3"              => "Just follow the tutorial in the yellow bar at the top of the page.",
-"TXT_WELCOME_4"              => "Good luck!",
+"TXT_WELCOME_1"              => "Willkommen zu LogiTycoon!",
+"TXT_WELCOME_2"              => "Du kannst dein eigenes Transportunternehmen sofort starten!",
+"TXT_WELCOME_3"              => "Folgen einfach dem Tutorial in der gelben Leiste am oberen Rand dieser Seite.",
+"TXT_WELCOME_4"              => "Viel Glück!",
 
-"TXT_NEXT_DAILY_AWARD"       => "Get back in 24 hours to get another award.",
+"TXT_NEXT_DAILY_AWARD"       => "Komme in 24 Stunden wieder um dir eine weitere Belohnung abzuholen.",
 
-"TXT_REACHED_HIGHER_LEVEL"   => "You have reached a higher level. Great job!",
-"TXT_YOU_DID_IT"             => "Awesome! You did it!",
-"TXT_WEEK_NUMBER_1"          => "You are the number 1 of this week! Great job!",
-"TXT_GOT_20_CREDITS"         => "You have earned 20 premium credits!",
-"TXT_DAY_NUMBER_1"           => "You were the number 1 of the day! Great job!",
-"TXT_GOT_5_CREDITS"          => "You have earned 5 premium credits!",
-"TXT_EMPLOYEES_SICK"         => "Employees called in sick today!", //An amount before this
-"TXT_EMPLOYEES_BACK_WORK"    => "Employees are back at work.", //An amount before this
-"TXT_INVOLVED_ACCIDENT"      => "has been involved in an accident!", //Truck %number% before this
-"TXT_INSURANCE_PAID"         => "Your insurance has paid the damage.",
-"TXT_INSURANCE_PAID_HALF"    => "Your insurance has paid half of the damage.",
-"TXT_HAD_NO_INSURANCE"       => "You did not have an insurance. You have paid all the damage by yourself.",
+"TXT_REACHED_HIGHER_LEVEL"   => "Du hast ein höheres Level erreicht. Gut gemacht!",
+"TXT_YOU_DID_IT"             => "Großartig! Du hast es geschafft!",
+"TXT_WEEK_NUMBER_1"          => "Du bist die Nummer 1 in dieser Woche! Gut gemacht!",
+"TXT_GOT_20_CREDITS"         => "Du hast 20 Premium-Credits verdient!",
+"TXT_DAY_NUMBER_1"           => "Du warst die Nummer 1 des Tages! Gut gemacht!",
+"TXT_GOT_5_CREDITS"          => "Du hast 5 Premium-Credits verdient!",
+"TXT_EMPLOYEES_SICK"         => "Mitarbeiter haben sich heute Krank gemeldet!", //An amount before this
+"TXT_EMPLOYEES_BACK_WORK"    => "Mitarbeiter sind wieder zur arbeit zurückgekehrt.", //An amount before this
+"TXT_INVOLVED_ACCIDENT"      => "war in einen Unfall verwickelt!", //Truck %number% before this
+"TXT_INSURANCE_PAID"         => "Deine Versicherung hat den Schaden bezahlt.",
+"TXT_INSURANCE_PAID_HALF"    => "Deine Versicherung hat die Hälfte des Schadens bezahlt.",
+"TXT_HAD_NO_INSURANCE"       => "Du warst nicht versichert. Du musst den kompletten Schaden selbst bezahlen.",
 
-"TXT_MEMBERS_WITHOUT_COMP"   => "Members without a company are not displayed in this table.",
+"TXT_MEMBERS_WITHOUT_COMP"   => "Mitglieder ohne Unternehmen werden nicht in dieser Tabelle angezeigt.",
 
-"TXT_DELETE_COMPANY_1"       => "Are you sure you want to delete your company?",
-"TXT_DELETE_COMPANY_2"       => "You will only keep your level.",
-"TXT_DELETE_COMPANY_YES"     => "Yes, I want to delete this company.",
+"TXT_DELETE_COMPANY_1"       => "Bist du sicher, dass du dein Unternehmen löschen möchtest?",
+"TXT_DELETE_COMPANY_2"       => "Du wirst nur dein Level behalten.",
+"TXT_DELETE_COMPANY_YES"     => "Ja, ich möchte dieses Unternehmen löschen.",
 
-"TXT_DELETE_CONCERN_1"       => "Are you sure you want to delete your corporation?",
-"TXT_DELETE_CONCERN_2"       => "The money and points of this corporation will be gone too.",
-"TXT_DELETE_CONCERN_YES"     => "Yes, I want to delete this corporation.",
+"TXT_DELETE_CONCERN_1"       => "Bist du sicher, dass du dein Konzern löschen möchtest?",
+"TXT_DELETE_CONCERN_2"       => "Das Geld und die Punkte dieses Konzerns werden auch weg sein.",
+"TXT_DELETE_CONCERN_YES"     => "Ja, ich möchte diesen Konzern löschen.",
 
-"TXT_STEAL_FUEL_AVAIL_AT"    => "Stealing fuel is available again at", //Time after this
+"TXT_STEAL_FUEL_AVAIL_AT"    => "Treibstoffdiebstahl ist wieder verfügbar um", //Time after this
 
-"TXT_FIRE_MEMBER_SURE"       => "Are you sure you want to fire this member?",
-"TXT_FIRE_MEMBER_YES"        => "Yes, I want to fire this member.",
+"TXT_FIRE_MEMBER_SURE"       => "Bist du sicher, dass du dieses Mitglied feuern möchtest?",
+"TXT_FIRE_MEMBER_YES"        => "Ja, ich möchte dieses Mitglied feuern.",
 
-"TXT_PROMOTE_MEMBER_1"       => "Do you want to appoint this member as the new CEO of this corporation?",
-"TXT_PROMOTE_MEMBER_2"       => "You will become a normal member of this corporation!!!",
-"TXT_PROMOTE_MEMBER_YES"     => "Yes, appoint this member as CEO.",
+"TXT_PROMOTE_MEMBER_1"       => "Möchtest du dieses Mitgleid als CEO dieses Konzerns ernennen?",
+"TXT_PROMOTE_MEMBER_2"       => "Du wirst ein normales Mitglied dieses Konzerns werden!!!",
+"TXT_PROMOTE_MEMBER_YES"     => "Ja, ernenne dieses Mitglied zum CEO.",
 
-"TXT_RETIRE_CONCERN_1"       => "Are you sure you want to retire from this corporation?",
-"TXT_RETIRE_CONCERN_YES"     => "Yes, I want to retire from this corporation.",
+"TXT_RETIRE_CONCERN_1"       => "Bist du sicher, dass du aus diesem Konzernaustreten möchtest?",
+"TXT_RETIRE_CONCERN_YES"     => "Ja, I want to retire from this corporation.",
 
-"TXT_NOT_ENOUGH_MONEY"       => "Not enough money!",
+"TXT_NOT_ENOUGH_MONEY"       => "Nicht genug Geld!",
 
-"TXT_UPGRADE_OFFICES_1"      => "You can upgrade your offices to accept more members.",
-"TXT_UPGRADE_OFFICES_2"      => "The offices can be upgraded to accept more members.",
-"TXT_BUY_OFFICES_1"          => "You can buy extra offices to accept more members.",
-"TXT_BUY_OFFICES_2"          => "Offices can be purchased to accept more members.",
+"TXT_UPGRADE_OFFICES_1"      => "Du kannst deine Büros Upgraden um mehr Mitglieder aufzunehmen.",
+"TXT_UPGRADE_OFFICES_2"      => "Die Büros können geupgradet werden um mehr Mitglieder aufzunehmen.",
+"TXT_BUY_OFFICES_1"          => "Du kannst zusätzliche Büros kaufen um mehr Mitgleider aufzunehmen.",
+"TXT_BUY_OFFICES_2"          => "Büros können gekauft werden um mehr Mitglieder aufzunehmen.",
 
-"TXT_BY_MEMBERS_SINCE_JOIN"  => "By the members, since accession", //Freights completed before this
+"TXT_BY_MEMBERS_SINCE_JOIN"  => "Durch die Mitglieder, seit Beitritt", //Freights completed before this
 
-"TXT_CANCEL_CONC_PROJECT_1"  => "Are you sure you want to cancel this project?",
-"TXT_CANCEL_CONC_PROJECT_YES"=> "Yes, I want to cancel this project.",
+"TXT_CANCEL_CONC_PROJECT_1"  => "Bist du sicher, dass du dieses Projekt abbrechen möchtest?",
+"TXT_CANCEL_CONC_PROJECT_YES"=> "Ja, ich möchte dieses Projekt abbrechen.",
 
-"TXT_UPGRADE_LICENSE_1"      => "Upgrading your license and the counting days since hiring will lower the damage risk.",
+"TXT_UPGRADE_LICENSE_1"      => "Durch das Upgraden deiner Lizenz und wird das Risiko eines Schadens verringert.",
 
-"TXT_CANCEL_FREIGHT_1"       => "Are you sure you want to cancel this freight?",
-"TXT_CANCEL_FREIGHT_YES"     => "Yes, I want to cancel this freight.",
+"TXT_CANCEL_FREIGHT_1"       => "Bist du sicher, dass du diese Landung abbrechen möchtest?",
+"TXT_CANCEL_FREIGHT_YES"     => "Ja, Ja ich möchte diese Ladung abbrechen.",
 
-"TXT_ASSIGNED_OTHER_FREIGHT" => "Assigned to another freight", //No . after this sentence!
+"TXT_ASSIGNED_OTHER_FREIGHT" => "Ist einer anderen Ladung zugeordnet", //No . after this sentence!
 
-"TXT_NOT_CITY_DEPARTURE"     => "Not in the city of departure.",
-"TXT_NOT_CITY_DESTINATION"   => "Not in the city of destination.",
-"TXT_INVALID_TRAILER_TYPE"   => "Invalid trailer type.",
-"TXT_CALLED_IN_SICK"         => "Called in Sick",
-"TXT_HIGHER_CONCERN_LVL_REQ" => "Higher corporation level required!",
+"TXT_NOT_CITY_DEPARTURE"     => "Nicht in der Stadt der Abfahrt.",
+"TXT_NOT_CITY_DESTINATION"   => "Nicht in der Stadt der Ankunft.",
+"TXT_INVALID_TRAILER_TYPE"   => "Ungültige Anhänger-Art.",
+"TXT_CALLED_IN_SICK"         => "Hat sich Krank gemeldet",
+"TXT_HIGHER_CONCERN_LVL_REQ" => "Höheres Unternehmenslevel benötigt!",
 
-"TXT_CURRENT_BLACKLISTED"    => "Current blacklisted persons", // : after this
-"TXT_ADD_MAX_AMOUNT_FRIENDS" => "You are able to add up to 40 friends, so you can see their online status and statistics.",
-"TXT_VIEW_TUTORIAL_STEPS"    => "Here you can view the tutorial steps of the game.",
+"TXT_CURRENT_BLACKLISTED"    => "Zur Zeit blockierte Personen", // : after this
+"TXT_ADD_MAX_AMOUNT_FRIENDS" => "Du kannst bis zu 40 Freunde hinzufügen. Damit kannst du ihren Online-Status und ihre Statistik sehen.",
+"TXT_VIEW_TUTORIAL_STEPS"    => "Hier siehst du die Tutorial-Schritte dieses Spiels.",
 
-"TXT_THIS_PAGE_NOTIF_COMP"   => "On this page you will find the notifications regarding your company.",
-"TXT_STOLEN_FUEL_INFO_1"     => "If someone has stolen fuel from you or at least tried it, you will be notified. If you want to protect yourself against these people, you can buy a lock in the shop and install it on your truck.",
+"TXT_THIS_PAGE_NOTIF_COMP"   => "Auf dieser Seite findest du die Benachrichtigungen, die dein Unternehmen betreffen.",
+"TXT_STOLEN_FUEL_INFO_1"     => "Wenn jemand deinen Treibstoff geklaut hat oder es versucht hat wirst du benachrichtigt. Wenn du dich dagegen schützen möchtest, kannst du im Laden ein Schloss kaufen und an deinem LKW anbringen.",
 
-"TXT_CLICK_TRAILER_INFO"     => "Click on a trailer below for more information.",
-"TXT_CLICK_TRUCK_INFO"       => "Click on a truck below for more information.",
+"TXT_CLICK_TRAILER_INFO"     => "Klicke auf einen aufgeführten Anhänger für mehr Informationen.",
+"TXT_CLICK_TRUCK_INFO"       => "Klicke auf einen aufgeführten LKW für mehr Informationen.",
 
-"TXT_SELL_AT_THE_MARKET"     => "Sell at the market",
-"TXT_SELL_MARKET_INFO_1"     => "On the market you can buy trucks & trailers from other players.",
-"TXT_SELL_MARKET_INFO_2"     => "If you want to sell your own trucks & trailers, go to your garage, select the one you want to sell and use the 'Sell at the market' button.", //Button name must be the same as in TXT_SELL_AT_THE_MARKET
+"TXT_SELL_AT_THE_MARKET"     => "Auf dem Markt verkaufen",
+"TXT_SELL_MARKET_INFO_1"     => "Auf dem Markt kannst du LKW & Anhänger von anderen Spielern kaufen.",
+"TXT_SELL_MARKET_INFO_2"     => "Wenn du deine eigenen LKW &Anhänger verkaufen möchtest gehe in deine Garage, wähle einen aus den du verkaufen möchtest und nutze die 'Verkaufe auf dem Markt' Schaltfläche.", //Button name must be the same as in TXT_SELL_AT_THE_MARKET
 
-"TXT_FUEL_TANK_LOCK_INFO_1"  => "A Fuel Tank Lock protects your truck from fuel thieves.",
-"TXT_NAVIGATION_UNIT_INFO_1" => "A Navigation Unit lets you drive 10% faster.",
+"TXT_FUEL_TANK_LOCK_INFO_1"  => "Ein Treibstoff-Tank-Schloss schützt dich vor Treibstoffdieben.",
+"TXT_NAVIGATION_UNIT_INFO_1" => "ein Navigationsgerät lässt dich 10% schneller fahren.",
 
-"TXT_ENTER_PRICE_BETWEEN"    => "Enter a price between", // Multiple amounts after this
+"TXT_ENTER_PRICE_BETWEEN"    => "Gebe einen Preis ein zwischen", // Multiple amounts after this
 
-"TXT_MARKET_INPOSSIBLE_USE"  => "If you make a truck or trailer available on the market, it is not possible to use it in the meantime.",
-"TXT_SKIP_TUTORIAL_1"        => "Are you sure you want to skip the tutorial?",
-"TXT_SKIP_TUTORIAL_YES"      => "Yes, I want to skip it.",
+"TXT_MARKET_INPOSSIBLE_USE"  => "Wenn du einen LKW oder Anhänger auf dem Markt zum kauf anbietest kannst du ihn in der Zeit nicht mehr nutzen.",
+"TXT_SKIP_TUTORIAL_1"        => "Bist du sicher, dass du das Tutorial überspringen möchtest?",
+"TXT_SKIP_TUTORIAL_YES"      => "Ja, ich möchte es überspringen.",
 
-"TXT_CLICK_FREIGHT_INFO"     => "Click on a freight for more info.",
+"TXT_CLICK_FREIGHT_INFO"     => "Klicke auf eine Ladung für mehr Informationen.",
 
-"TXT_TRANSFER_1"             => "Transferio is a company who will transfer your trucks & trailers for you.",
-"TXT_TRANSFER_2"             => "For that service you will have to pay them.",
-"TXT_TRANSFER_3"             => "Transferring this employee by taxi costs money.",
+"TXT_TRANSFER_1"             => "Transferio ist ein Unternehmen, dass deine LKW & Anhänger für dich transferiert.",
+"TXT_TRANSFER_2"             => "Für diese Dienstleistung musst du sie bezahlen.",
+"TXT_TRANSFER_3"             => "Diesen Mitarbeiter im Taxi zu transferieren kostet Geld.",
 
-"TXT_CHOOSE_INSURANCE_1"     => "Here you can choose a form of insurance.",
-"TXT_DAMAGE_OTHERS_1"        => "Damage to other trucks / trailers",
-"TXT_HIGHER_LVL_CHANGE_INS"  => "You will need a higher level to change your insurance!",
+"TXT_CHOOSE_INSURANCE_1"     => "Hier kannst du die Art der Versicherung auswählen.",
+"TXT_DAMAGE_OTHERS_1"        => "Schäden an anderen LKW / Anhängern",
+"TXT_HIGHER_LVL_CHANGE_INS"  => "Du musst ein höheres Level erreichen um die Versicherung zu ändern!",
 
-"TXT_FUEL_TANK_INFO_1"       => "On this page you're able to check the content of your company's Fuel Tank.",
-"TXT_FUEL_TANK_INFO_2"       => "A Fuel Tank is currently only for storing fuel that you've stolen from another company.",
-"TXT_FUEL_TANK_INFO_3"       => "If you want to use the fuel that's in your Fuel Tank, please go to the Fuel Station page.",
+"TXT_FUEL_TANK_INFO_1"       => "Auf dieser Seite kannst du den Inhalt des Treibstofftanks deines Unternehmens prüfen.",
+"TXT_FUEL_TANK_INFO_2"       => "Der Treibstofftank wird aktuell nur genutzt, um gestohlenen Treibstoff zu lagern.",
+"TXT_FUEL_TANK_INFO_3"       => "Wenn du denTreibstoff aus deinem Treibstofftank nutzen möchtest, gehe bitt auf die Tankstellen-Seite.",
 
-"TXT_CHAT_LANGUAGE_SET_TO"   => "The corporation owner set the language for this chat to:",
-"TXT_TYPE_MESSAGE_HERE"      => "Type a message here...",
+"TXT_CHAT_LANGUAGE_SET_TO"   => "Der Konzerninhaber hat hat die folgende Sprache für den Chat festgelegt:",
+"TXT_TYPE_MESSAGE_HERE"      => "Schreibe hier eine Nachricht...",
 
-"TXT_CONCERN_CHAT_INFO_1"    => "Welcome to the corporation chat.",
-"TXT_CONCERN_CHAT_INFO_2"    => "This is the place to communicate with other corporation members about stuff like finances, fuel stations or just for fun.",
-"TXT_CONCERN_CHAT_INFO_3"    => "It seems you are the owner of this corporation, so you are the only one being able to delete all the chats. If you don't delete them yourself, they will eventually be deleted after 7 days.",
+"TXT_CONCERN_CHAT_INFO_1"    => "Willkommen zum Konzern-Chat.",
+"TXT_CONCERN_CHAT_INFO_2"    => "Hier kannst du mit anderen Mitgliedern des Konzerns kommunizieren. Sei es für Finanzen, Tankestellen oder nut zum Spaß.",
+"TXT_CONCERN_CHAT_INFO_3"    => "Du scheinst Inhaber des Konzerns zu sein, du bist somit der einzige der alle Chats löschen kann. Wenn du sie nicht selber löschst werden sie automatisch nach 7 Tagen gelöscht.",
 
-"TXT_BANK_INFO_1"            => "You're able to transfer your money to a savings account to get a daily interest out of it.",
-"TXT_BANK_INFO_2"            => "Make sure to login once a day to get your daily interest.",
-"TXT_BANK_INFO_3"            => "If you buy a premium account, your interest will be higher.",
-"TXT_BANK_INFO_4"            => "You will only get interest for a maximum of 5.000.000 euro's.",
+"TXT_BANK_INFO_1"            => "Du kannst Geld auf dein Sparbuch Überweisen, um Zinsen zu erhalten.",
+"TXT_BANK_INFO_2"            => "Denke dran dich täglich anzumelden, um deine täglichen Zinsen zu erhalten.",
+"TXT_BANK_INFO_3"            => "Wenn du dir einen Premium-Account kaufst sind deine Zinsen höher.",
+"TXT_BANK_INFO_4"            => "Du erhälst nur Zinsen auf eine Summe bis zu 5.000.000 Euro.",
 
-"TXT_PRICES_CHANGE_HOUR"     => "Prices change every hour.",
-"TXT_PRICES_CHANGE"          => "Prices change every 2 hours.",
-"TXT_CREATE_COMP_INFO"       => "Creating a company is the first step in this game.",
+"TXT_PRICES_CHANGE_HOUR"     => "Die Preise ändern sich jede Stunde.",
+"TXT_PRICES_CHANGE"          => "Die Preise ändern sich alle 2 Stunden.",
+"TXT_CREATE_COMP_INFO"       => "Der erste Schritt dieses Spiels ist ein Unternehmen zu erstellen.",
 
-"TXT_CREATE_CONCERN_INFO_1"  => "Companies are able to join a corporation. How much companies can join depends on the amount and level of offices the corporation has bought.",
+"TXT_CREATE_CONCERN_INFO_1"  => "Unternehmen können einem Konzern beitreten. Wie viele Unternehmen beitreten können hängt von der Menge und dem Level der Büros im Konzern ab.",
 "TXT_CREATE_CONCERN_INFO_2"  => "A corporation can buy fuel stations and refuel them in an hour of which the fuel price is at it's lowest (fuel prices change every hour).",
 "TXT_CREATE_CONCERN_INFO_3"  => "As the corporation owner you can then set a specific fuel price, so the companies in your corporation are able to refuel at a time in which the public fuel price is higher.",
 "TXT_CREATE_CONCERN_INFO_4"  => "Last but not least; every hour your corporation will get corporation freights. These freights will give the company that accepts the freight more money than a normal trip.",
-"TXT_CREATE_CONCERN_REQ"     => "The 'Create Corporation' premium option.",
+"TXT_CREATE_CONCERN_REQ"     => "Die 'Konzern erstellen' Premium Option.",
 
-"TXT_FIRE_EMPLOYEE_1"        => "Are you sure you want to fire this employee?",
-"TXT_FIRE_EMPLOYEE_2"        => "You won't get back the money you've invested into his license!!",
-"TXT_FIRE_EMPLOYEE_CONFIRM"  => "Yes, I want to fire this employee.",
+"TXT_FIRE_EMPLOYEE_1"        => "Bist du sicher, dass du diesen Mitarbeiter feuern möchtest?",
+"TXT_FIRE_EMPLOYEE_2"        => "Du wirst das Geld nicht wiederbekommen, dass du in seine Lizenz investiert hast!!",
+"TXT_FIRE_EMPLOYEE_CONFIRM"  => "Ja, ich möchte diesen Mitarbeiter löschen.",
 
-"TXT_TRUCK_TRAILER_DEP_NI"   => "Truck/Trailer depreciation not included",
+"TXT_TRUCK_TRAILER_DEP_NI"   => "LKW/Anhänger Abschreibung nicht inbegriffen",
 
-"TXT_CONCERN_FREIGHT_INFO_1" => "Every hour new Corporation Freights will be made available for your company to accept.",
-"TXT_CONCERN_FREIGHT_INFO_2" => "This freights will not only give your corporation some money, it will also give you 30% more money than a normal trip.",
-"TXT_CONCERN_FREIGHT_INFO_3" => "After accepting a freight, it will appear in your warehouse, just like your normal freights.",
-"TXT_CONCERN_FREIGHT_INFO_4" => "These freights can only be accepted by one person. So you have to be fast!",
+"TXT_CONCERN_FREIGHT_INFO_1" => "Jede Stunde gibt es neue Konzert-Ladungen die du annehmen kannst.",
+"TXT_CONCERN_FREIGHT_INFO_2" => "Mit dieser Landung verdient dein Unternehmen nur normal Geld, sondern es gibt 30% Bonus zu einer normalen Tour.",
+"TXT_CONCERN_FREIGHT_INFO_3" => "Nachdem die Ladung angenommen wurde wird sie in deinem Lagerhaus erscheinen. So wie eine normale Ladung.",
+"TXT_CONCERN_FREIGHT_INFO_4" => "Diese Ladungen können nur von einer Person angenommen werden. Du musst also schnell sein!",
 
-"TXT_CONCERN_FUEL_INFO_1"    => "You can fill up the fuel stations when the local fuel price is low enough for you.",
-"TXT_CONCERN_FUEL_INFO_2"    => "Fuel stations can be filled up when the local fuel price is as low as possible.",
-"TXT_CONCERN_FUEL_INFO_3"    => "You can change the fuel price for you and your corporation members.",
-"TXT_CONCERN_FUEL_INFO_4"    => "You can upgrade your fuel stations to increase it's capacity.",
-"TXT_CONCERN_FUEL_INFO_5"    => "Fuel stations can be upgraded to increase it's capacity.",
-"TXT_CONCERN_FUEL_INFO_6"    => "New Fuel Stations can be bought.",
+"TXT_CONCERN_FUEL_INFO_1"    => "Du kannst die Tankstellen auffüllen, wenn dir der örtliche Preis niedrig genug ist.",
+"TXT_CONCERN_FUEL_INFO_2"    => "Tankstellen können aufgefüllt werden, wenn der örtliche Preis so niedrig wie möglich ist.",
+"TXT_CONCERN_FUEL_INFO_3"    => "Du kannst den Preis für dich und eine Konzern-Mitglieder ändern.",
+"TXT_CONCERN_FUEL_INFO_4"    => "Du kannst eine Tankstelle upgraden um ihre Kapazität zu erhöhen.",
+"TXT_CONCERN_FUEL_INFO_5"    => "Die Kapazität von Tankstellen können mit Upgrades erhöht werden.",
+"TXT_CONCERN_FUEL_INFO_6"    => "Es können neue Tankstellen gekauft werden.",
 
 "TXT_FILL_IN_A_PRICE"        => "Fill in a price..",
 "TXT_HIGHER_LVL_HIRE_EMPL"   => "You'll need a higher level to hire this type of employees.",
