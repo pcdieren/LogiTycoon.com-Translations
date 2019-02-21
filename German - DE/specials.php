@@ -34,11 +34,11 @@ $langspecials = array(
 "TXT_FAQ_Q_12"       => "Kann ich die Speed Up Schltflächen auch in der iOS-App verwenden?",
 "TXT_FAQ_A_12"       => "Nein, aufgrund von Apples Richtlinien ist es leider nicht möglich nie Speed Up Schaltflächen in der iOS-App zu nutzen.",
 
-"TXT_FAQ_Q_13"       => "If I buy a premium account or fast action times, can I use it in the iOS and Android app?",
-"TXT_FAQ_A_13"       => "Yes, you will be able to use those in the iOS and Android app as well. \n\n In the iOS app the functions and buttons related to the premium functions are hidden, but they will appear when you've bought the functions on the website.",
+"TXT_FAQ_Q_13"       => "Wenn ich mir einen Premium-Account oder Schnell-Aktionen kaufe, kann ich die auch in der iOS- und Android-App nutzen?",
+"TXT_FAQ_A_13"       => "Ja, du kannst diese auch in der iOS- und Android-app nutzen. \n\n In the iOS app the functions and buttons related to the premium functions are hidden, but they will appear when you've bought the functions on the website.",
 
-"TXT_FAQ_Q_14"       => "What happens if I buy premium on the Android app?",
-"TXT_FAQ_A_14"       => "If you buy premium functions on the Android app, you will be able to use them on the website and iOS app as well. There is no difference between buying premium functions on the website or the Android app.",
+"TXT_FAQ_Q_14"       => "Was passiert wenn ich Premium in der Adroid-App kaufe?",
+"TXT_FAQ_A_14"       => "Wenn du dir Premium-Funktionen in der Adroid-App kaufst, kannst du sie auch auf der Webseite und der iOS-App nutzen. Es macht keinen Unterschied ob die Premium-Funktionen auf der Webseite oder in einer unserer Apps gekauft werden.",
 
 "TXT_FAQ_Q_15"       => "Wie schreite ich in meinem Level fort?",
 "TXT_FAQ_A_15"       => "Du wirst in deinem Level jedes mal fortschreiten, wenn du eine Ladung abschließt.",
@@ -46,11 +46,11 @@ $langspecials = array(
 "TXT_FAQ_Q_16"       => "Mein Mitarbeiter hat sich Krank gemeldet. Was soll ich zun?",
 "TXT_FAQ_A_16"       => "Du wirst dir einen anderen Mitarbeiter für die Ladungen suchen müssen bis es ihm besser geht. Das wird mindestens 12 Stunden dauern.",
 
-"TXT_FAQ_Q_17"       => "Why is the maintenance of my truck/trailer so high?",
-"TXT_FAQ_A_17"       => "If your truck or trailer requires a lot of maintenance, it is probably too old. The older he gets (number of days), the more maintenance he needs.",
+"TXT_FAQ_Q_17"       => "Warum sind die Wartungskosten meines LKW/Anhänger so hoch?",
+"TXT_FAQ_A_17"       => "Wenn ein LKW oder Anhänger in der Wartung sehr teuer sins, sind sie wahrscheinlich zu alt. Je älter sie werden (Anzahl der Tage), desto mehr Wartungsaufwand benötigen sie.",
 
 "TXT_FAQ_Q_18"       => "Kann ich das Tutorial erneut spielen?",
-"TXT_FAQ_A_18"       => "You can restart the tutorial only by deleting your company. The tutorial will then automatically be restarted.",
+"TXT_FAQ_A_18"       => "Du kannst das Tutorial nur neu spielen wenn du dein Unternehmen löschst. Das Tutorial wird automatisch neu gestartet.",
 
 "TXT_TUTORIAL_1"             => "Der erste Schritt des Spiels ist ein Unternehmen zu erstellen.",
 "TXT_TUTORIAL_2"             => "Du hast ein paar Standard-LKW und -Anhänger. Schau die dir an!",
@@ -74,7 +74,7 @@ $langspecials = array(
 "TXT_TUTORIAL_20"            => "Super! Der LKW ist auf dem Weg zu seinem Ziel. Wenn er angekommen ist kannst du die Ladung ausladen.",
 "TXT_TUTORIAL_21"            => "Wenn dein Anhäger abgeladen ist kann die Ladung abgeschlossen werden.",
 "TXT_TUTORIAL_22"            => "Du kannst die Ladung nun abschließen. Hol dir dein Geld!",
-"TXT_TUTORIAL_23"            => "Wenn du etwas Geld verdient hast kannst du dir neue LKW und Anhänger kaufen. Gehe zum LKW-Händler und schau sie dir an.",
+"TXT_TUTORIAL_23"            => "Wenn du etwas Geld verdient hast kannst du dir neue LKW und Anhänger kaufen. Gehe zum LKW-Laden und schau sie dir an.",
 "TXT_TUTORIAL_24"            => "Das sind die LKW, lass uns nun einen Blick auf die Anhänger werfen.",
 "TXT_TUTORIAL_25"            => "Möchtest du sehen wie sich andere Unternehmen nach oben kämpfen? Gehe zur Unternehmensliste und schau dir ein anderes Unternehmen an.",
 "TXT_TUTORIAL_26"            => "Ich glaube den Rest des Spiels kannst du selber herausfinden, richtig? Gehe zurück zur Hauptseite um diese Tutorial abzuschließen.",
