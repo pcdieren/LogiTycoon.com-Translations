@@ -52,6 +52,9 @@ $langspecials = array(
 "TXT_FAQ_Q_18"       => "Kann ich das Tutorial erneut spielen?",
 "TXT_FAQ_A_18"       => "Du kannst das Tutorial nur neu spielen wenn du dein Unternehmen löschst. Das Tutorial wird automatisch neu gestartet.",
 
+"TXT_FAQ_Q_19"       => "I have technical problems. What should I do?",
+"TXT_FAQ_A_19"       => "You can always send us an email. Our contact details can be found at the menu: General -> Contact.",
+
 "TXT_TUTORIAL_1"             => "Der erste Schritt des Spiels ist ein Unternehmen zu erstellen.",
 "TXT_TUTORIAL_2"             => "Du hast ein paar Standard-LKW und -Anhänger. Schau die dir an!",
 "TXT_TUTORIAL_3"             => "Drücke die Information Schaltfläche eines LKW oder Anhänger.",
