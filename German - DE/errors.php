@@ -436,6 +436,15 @@ $langerrors = array(
 
     "ERROR_INVALID_LANGUAGE"         => "Ungültige Sprache.",
     "ERROR_LANGUAGE_CHANGED"         => "Sprache geändert.",
-    "ERROR_RIGHTS_CHANGED"           => "Rechte geändert."
+    "ERROR_RIGHTS_CHANGED"           => "Rechte geändert.",
+
+    //Oil Refinery Update
+    "ERROR_INVALID_OILREF"           => "Invalid Oil Refinery!",
+    "ERROR_OILREF_EXISTS"            => "You already have a Oil Refinery in this country!",
+    "ERROR_OILREF_BOUGHT"            => "Oil Refinery bought.",
+    "ERROR_OILREF_UPGRADED"          => "Oil Refinery upgraded.",
+    "ERROR_OILREF_REFILLED"          => "Oil Refinery refilled.",
+    "ERROR_TOO_FEW_FUEL"             => "Too few fuel!",
+    "ERROR_FUELSTATIONS_FULL"        => "The Fuel Stations in this country are full!",
 );
 ?>
