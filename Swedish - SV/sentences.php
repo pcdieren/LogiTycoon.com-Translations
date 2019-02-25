@@ -231,5 +231,10 @@ $langsentences = array(
 //Premium & Tutorial Update
 "TXT_EXTRA_TEMP_MANAGERS"    => "4 Extra (temporary) Managers",
 "TXT_SELECT_PERS_DETAILS"    => "First select your personal details below.",
+
+//Change Truck & Trailer Name Update
+"TXT_CHANGE_TRUCK_NAME"      => "Change the name of the truck.",
+"TXT_CHANGE_TRAILER_NAME"    => "Change the name of the trailer.",
+
 );
 ?>
