@@ -52,6 +52,9 @@ $langspecials = array(
 "TXT_FAQ_Q_18"       => "Can I restart the tutorial?",
 "TXT_FAQ_A_18"       => "You can restart the tutorial only by deleting your company. The tutorial will then automatically be restarted.",
 
+"TXT_FAQ_Q_19"       => "I have technical problems. What should I do?",
+"TXT_FAQ_A_19"       => "You can always send us an email. Our contact details can be found at the menu: General -> Contact.",
+  
 "TXT_TUTORIAL_1"             => "The first step in this game is to create a company.",
 "TXT_TUTORIAL_2"             => "You have got some default trucks and trailers. Go check them out!",
 "TXT_TUTORIAL_3"             => "Press the information button of a truck or trailer.",
